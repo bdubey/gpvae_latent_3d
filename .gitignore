@@ -1,0 +1,4 @@
+debug/
+__pycache__/
+Test_Batches.pkl
+.ipynb_checkpoints/
