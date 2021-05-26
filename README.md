@@ -9,3 +9,5 @@ Written in Tensorflow 1.13, python 3.6.
 ### Reconstruction of trajetcory on some samples not used in training
 #### Result1:  16x16x16 samples and there reconstruction
 ![Training GP-VAE](https://github.com/bdubey/ml_project_gpvae/blob/master/result_final.png)
+#### Result1:  16x16x16 samples and there reconstruction
+![Training GP-VAE](https://github.com/bdubey/ml_project_gpvae/blob/master/result_final22.png)
