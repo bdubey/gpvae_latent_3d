@@ -2,3 +2,5 @@ debug/
 __pycache__/
 Test_Batches.pkl
 .ipynb_checkpoints/
+./gpvae_checkpoints/
+.DS_Store
