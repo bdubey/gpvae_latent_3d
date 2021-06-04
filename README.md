@@ -1,5 +1,5 @@
 # GPVAE for Latent Dynamics from Pixels in 3 Dimensional Video
-In this project we try to learn laten dynamics of pixels from videos in three dimension
+In this project we try to learn latent dynamics of pixels from videos in three dimension
 using Gaussian Prior to standard Variational Autoencoder.
 
 This work is extended from similar work in 2d images in paper:
